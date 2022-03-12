@@ -18,7 +18,7 @@
 
 - 개발 기간 : 2022.02.07 ~ 2022.03.13
 
-기획부터 DB 설계, 백엔드와 프론트엔드 로직 개발, 배포와 테스트까지 웹 개발의 수명주기를 총체적으로 체험해 본 프로젝트입니다. Spring Boot와 MariaDB, Thymeleaf를 사용했습니다.
+기획부터 DB 설계, 백엔드와 프론트엔드 로직 개발, 배포와 테스트까지 웹 개발의 수명주기를 총체적으로 체험해 본 프로젝트입니다. Spring Boot와 MariaDB, JavaScript, Thymeleaf를 사용했습니다.
 
 [Details](https://github.com/songbiz0/fitBook)
 
