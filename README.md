@@ -28,6 +28,7 @@
 
 ## Certification
 - 컴퓨터활용능력 1급 (2020)
+- 사무자동화산업기사 (2019)
 
 ## Algorithm Study
 - 백준
