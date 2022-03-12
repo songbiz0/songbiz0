@@ -34,4 +34,4 @@
 - 백준
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=songbiz)](https://solved.ac/{handle})
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=songbiz)](https://solved.ac/songbiz)
