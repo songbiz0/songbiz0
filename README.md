@@ -20,7 +20,7 @@
 
 기획부터 DB 설계, 백엔드와 프론트엔드 로직 개발, 배포와 테스트까지 웹 개발의 수명주기를 총체적으로 체험해 본 프로젝트입니다. Spring Boot와 MariaDB, JavaScript, Thymeleaf를 사용했습니다.
 
-
+http://fitbook.shop/
 
 ## Education ✏
 - 경북대학교 영어영문학 전공 졸업 (2013.03 ~ 2021.02)
