@@ -14,13 +14,13 @@
 
 ## Project 📒 
 
-### [fitBook - 노트북 쇼핑몰](http://fitbook.shop/)
+### [fitBook - 노트북 쇼핑몰](https://github.com/songbiz0/fitBook)
 
 - 개발 기간 : 2022.02.07 ~ 2022.03.13
 
 기획부터 DB 설계, 백엔드와 프론트엔드 로직 개발, 배포와 테스트까지 웹 개발의 수명주기를 총체적으로 체험해 본 프로젝트입니다. Spring Boot와 MariaDB, JavaScript, Thymeleaf를 사용했습니다.
 
-[Details](https://github.com/songbiz0/fitBook)
+
 
 ## Education ✏
 - 경북대학교 영어영문학 전공 졸업 (2013.03 ~ 2021.02)
