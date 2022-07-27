@@ -1,7 +1,5 @@
 ### Hi there 👋
 ---
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:songbiz00@gmail.com)
-
 ### BAEKJOON
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=songbiz)](https://solved.ac/songbiz)
