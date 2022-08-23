@@ -4,7 +4,7 @@
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=songbiz)](https://solved.ac/songbiz)
-<br><img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif">
+<img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif">
 
 ## 📽️ PROJECTS
 - 💻[fitBook : 노트북 판매 쇼핑몰 포트폴리오](https://github.com/songbiz0/fitBook) (2022.03)
