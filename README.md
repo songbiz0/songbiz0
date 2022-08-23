@@ -6,7 +6,7 @@
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=songbiz)](https://solved.ac/songbiz)
 &nbsp;&nbsp;<img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif">
 
-## 📽️ PROJECTS
+## 📽️ WORKS
 - 💻[fitBook : 노트북 판매 쇼핑몰 포트폴리오](https://github.com/songbiz0/fitBook) (2022.03)
 - 🥊[counterIt : 리그 오브 레전드 챔피언의 표준화된 카운터 지표를 보여주는 서비스](https://github.com/songbiz0/counterit) (2022.08)
 
